@@ -1,0 +1,19 @@
+{
+  "KPOP" : [
+    {
+      "firstname": "Yuta Nakamoto",
+      "age": 25,
+      "group": "NCT127"
+    },
+    {
+      "firstname": "Namjoon Kim",
+      "age": 26,
+      "group":"BTS"
+    },
+    {
+      "firstname": "Hyunjin Hwang",
+      "age":20,
+      "group":"StrayKids"
+    }
+    ]
+}
